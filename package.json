@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "highlight.js": "^9.16.2",
+    "markdown-it": "^10.0.0",
+    "markdown-it-toc-and-anchor": "^4.2.0",
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "highlight.js": "^9.16.2"
+  }
+}
